@@ -1,0 +1,15 @@
+.contact-item {
+    margin: 10px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .contact-item button {
+    margin-left: 15px;
+    padding: 5px 10px;
+    background-color: red;
+    color: white;
+    border: none;
+  }
+  
